@@ -1,0 +1,29 @@
+@import url(../blocks/root/root.css);
+@import url(../blocks/body/body.css);
+/* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__navigation/header__navigation.css);
+@import url(../blocks/header/__navigation/_topmenu/header__navigation_topmenu.css);
+@import url(../blocks/header/__navigation/_submenu/header__navigation_submenu.css);
+@import url(../blocks/header/__navigation/_link/header__navigation_link.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/header/__buttons/header__buttons.css);
+
+
+/*кнопки*/
+@import url(../blocks/buttons/__log-in/bottons__log-in.css);
+@import url(../blocks/buttons/__sign-up/_type/_black/butttons__sign-up_type_black.css);
+@import url(../blocks/buttons/__sign-up/_type/_green/buttons__sugn-up_type_green.css);
+/* блок investing */
+@import url(../blocks/investing/investing.css);
+@import url(../blocks/investing/__content/investing__content.css);
+@import url(../blocks/investing/__content/_title/investing__content_title.css);
+@import url(../blocks/investing/__content/_text/investing__content_text.css);
+@import url(../blocks/investing/__content/_paragraph/investing__content_paragraph.css);
+@import url(../blocks/investing/__content/_links/investing__content_links.css);
+@import url(../blocks/investing/__content/_links/investing__content_links_commission/investing__content_links_commission.css);
+@import url(../blocks/investing/__content/_image/investing__content_image.css);
+
+
+
+

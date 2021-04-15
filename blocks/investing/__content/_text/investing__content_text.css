@@ -1,0 +1,9 @@
+.investing__content_text {
+  width: 492px;
+  height: 653px;
+  margin-left: 117px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+

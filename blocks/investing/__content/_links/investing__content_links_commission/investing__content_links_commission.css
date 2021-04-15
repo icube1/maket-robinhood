@@ -1,0 +1,15 @@
+.investing__content_links_commission{
+  width: 365px;
+  height: 30px;
+  text-decoration: none;
+  color: black;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.25px;
+  margin-top: 42px;
+  display: flex;
+  justify-content: space-between;
+}
+

@@ -1,0 +1,13 @@
+.header__navigation{
+  max-width: 600px ;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 28px;
+  letter-spacing: .25px;
+
+}
+

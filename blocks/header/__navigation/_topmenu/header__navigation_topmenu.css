@@ -1,0 +1,34 @@
+.header__navigation_topmenu {
+  margin: 48px 18px;
+  font-size: 18px;
+  line-height: 28px;
+  cursor: pointer;
+  background-color: white;
+  display: inline;
+  list-style-type: none;
+  position: relative;
+  text-decoration: none;
+  color: black;
+}
+
+.header__navigation_topmenu:hover .header__navigation_submenu{
+  visibility: visible;
+  opacity: 1;
+  z-index: 1;
+  transform: translateY(0);
+}
+
+.header__navigation_topmenu:focus .header__navigation_submenu{
+  visibility: visible;
+  opacity: 1;
+  z-index: 1;
+  transform: translateY(0);
+}
+
+.header__navigation_topmenu:focus-within .header__navigation_submenu{
+  visibility: visible;
+  opacity: 1;
+  z-index: 1;
+  transform: translateY(0);
+}
+

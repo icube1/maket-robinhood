@@ -1,0 +1,8 @@
+.header {
+  max-width: 1440px;
+  height: 64px;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+}
+

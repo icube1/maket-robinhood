@@ -1,0 +1,16 @@
+.buttons__sign-up_type_green{
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding: 0;
+  width: 144px;
+  height: 48px;
+  background-color: #00C805;
+  border: none;
+  border-radius: 24px;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: .25px;
+}
+
