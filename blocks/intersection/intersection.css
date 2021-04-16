@@ -1,0 +1,8 @@
+.intersection{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 93px;
+  border: 1px solid black;
+}
+

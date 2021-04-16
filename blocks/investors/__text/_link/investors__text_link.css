@@ -1,0 +1,13 @@
+.investors__text_link{
+  width: 183px;
+  height: 28px;
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.25px;
+}

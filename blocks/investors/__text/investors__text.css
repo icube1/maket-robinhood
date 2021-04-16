@@ -1,0 +1,9 @@
+.investors__text{
+  width: 492px;
+  height: 452px;
+  margin-left: 11px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
